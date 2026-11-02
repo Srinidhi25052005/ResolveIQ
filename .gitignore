@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# Database (local only – contains personal demo data)
+resolveiq.db
+
+# Streamlit cache
+.streamlit/
+
+# Pytest cache
+.pytest_cache/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
